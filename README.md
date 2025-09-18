@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MOUMITADAS2003
-- 👀 I’m interested in searching of new things.
-- 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in searching of new things
 - 📫 How to reach me : das507740@gmail.com
 
 <!---

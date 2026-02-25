@@ -19,8 +19,7 @@ I'm currently working on my progress<br>I'm comfortable working with Visual Stud
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MOUMITADAS2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=
 ---
 [![](https://visitcount.itsvg.in/api?id=MOUMITADAS2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
